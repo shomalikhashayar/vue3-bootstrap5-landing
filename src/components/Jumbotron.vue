@@ -1,16 +1,18 @@
 <template>
-
-<div class="container">
-  <div class="row">
-    <div class="col-md-7"><img src="Khashayar Shomali.png" alt=""></div>
-    <div class="col-md-5">
-      <h1 class="font-weight-light">Tagline</h1>
-      <p class="mt-4">Howdy, my name is Khashayar Shomali</p>
-      <button type="button" class="btn btn-primary">Call to Action</button>
+  <div class="container my-5">
+    <div class="row">
+      <div class="col-md-7">
+        <img src="https://picsum.photos/id/289/600/400" alt="khashayar" />
+      </div>
+      <div class="col-md-5">
+        <h1 class="font-weight-light">Welcome...</h1>
+        <p class="mt-4">My name is Khashayar Shomali, I'm Junior Frontend Developer and this is
+          my first landing page I made by vue3 and bootstrap5.
+        </p>
+        <button type="button" class="btn btn-primary">Check my portfolio</button>
+      </div>
     </div>
   </div>
-</div>
-
 </template>
 
 <script>
